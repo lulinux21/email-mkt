@@ -1,0 +1,21 @@
+Olá, Willian Ribeiro
+
+Recuperação de Senha
+
+Recebemos uma solicitação de recuperação de senha! Para continuar, basta informar no aplicativo o token a seguir:
+
+XX556A1DF (#insertUrlLink)
+
+Caso você não tenha solicitado esta mudança de senha, não se preocupe. Ignore este e-mail e sua senha não será alterada. Se tiver dúvidas opu problemas, contate o consultor.
+
+Este e-mail é confidencial e de uso exclusivo do destinatário. Seu conteúdo não deve ser revelado à terceiros. Caso você não seja o destinatário, por favor notifique o remetente e elimine esta mensagem imediatamente. Alertamos que esta mensagem transitou por rede pública de comunicação, estando, portanto, sujeia aos riscos inerentes a essa forma de comunicação. A W1 Consultoria não se responsabiliza pelo conteúdo de e-mails que não tenha relação com informações sobre serviços por ela prestados.
+
+This e-mail is private and confidential, and of exclusive use of the addressee only. Its contents should not be revealed to third parties. If your are not the intended addressee, please notify the sender and promptly delete this message. It should be advised that this correspondence has been transmitted through a public communications channel, being, therefore, subject to the inherent risks of such kind of communications. W1 Consultoria is not responsible for contents which are not related to information regarding its services.
+
+(#insertUrlLink)
+
+    (#insertUrlLink)
+
+    (#insertUrlLink)
+
+    (#insertUrlLink)
